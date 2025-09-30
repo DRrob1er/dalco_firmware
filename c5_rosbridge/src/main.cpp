@@ -26,7 +26,8 @@ const char* EAP_PASSWORD  = "s3cr3t";
 
 
 
-const char* ROS_HOST      = "172.16.30.9";
+// const char* ROS_HOST      = "172.16.30.9";
+const char* ROS_HOST      = "172.16.30.15";
 const uint16_t ROS_PORT   = 9090;
 const char* ROS_PATH      = "/";
 
